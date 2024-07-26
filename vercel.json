@@ -12,11 +12,11 @@
         "dest": "/index.js"
       }
     ],
-    "env": {
-      "PORT": "3000",
-      "CLOUDINARY_CLOUD_NAME": "@cloudinary_cloud_name",
-      "CLOUDINARY_API_KEY": "@cloudinary_api_key",
-      "CLOUDINARY_API_SECRET": "@cloudinary_api_secret"
-    }
+"env": {
+    "PORT": "3000",
+    "CLOUDINARY_CLOUD_NAME": "djuujf95p",
+    "CLOUDINARY_API_KEY": "653636322765548",
+    "CLOUDINARY_API_SECRET": "UX4D9pGVlS-n_shPvoN_4lNsf3Y"
+  }
   }
   
