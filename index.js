@@ -71,7 +71,7 @@ const upload = multer({
 }); // 50 MB limit
 
 const corsOptions = {
-    origin: "https://backend-tan-six-99.vercel.app",
+    origin: "*",
     methods: "GET,HEAD,PUT,PATCH,POST,DELETE",
     allowedHeaders: ["Content-Type", "Authorization"],
     credentials: true,
